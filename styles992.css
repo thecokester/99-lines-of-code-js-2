@@ -1,0 +1,22 @@
+.button {
+    color: forestgreen;
+    background-color: lightcoral;
+}
+
+
+.friends, p {
+    text-transform: uppercase;
+}
+
+h1 {
+    color: brown;
+}
+
+.box{
+    background-color: lightsalmon;
+
+}
+
+.lyrics {
+    color: lightgray
+}
